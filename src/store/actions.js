@@ -1,4 +1,4 @@
-export default{
+export default {
 	addTodo({commit},text){
 		commit('addTodo',{
 			text,
